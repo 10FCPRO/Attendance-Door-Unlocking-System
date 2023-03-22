@@ -1,0 +1,4 @@
+A system that scans student's face to register his/her attendance and unlocks the door.
+•Face recognition AI using Python that scans students faces and saves data on Firebase.
+•Students can track their attendance on a mobile app built with Java.
+•Once there is a change in Firebase, a wireless component sends data to the Arduino that unlocks the door.
