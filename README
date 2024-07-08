@@ -5,3 +5,4 @@ A system that scans student's face to register his/her attendance and unlocks th
 
 
 Note that you must download ArduinoJson and firebase arduino master libraries
+Dont forget to update fingerprints.
